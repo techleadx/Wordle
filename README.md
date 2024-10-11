@@ -1,2 +1,2 @@
-# Learn-JavaScript
- My Awesome Website
+
+# A clone of the popular Word Game Wordle
